@@ -9,12 +9,11 @@ I have solid skills in the field of Data Science, including experience in Python
 # Languages - Frameworks - Technologies - Tools
 
 <div style="display: inline">
-
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
-          
 </div>
+
 &nbsp;&nbsp;
 
 # You can find me too:
